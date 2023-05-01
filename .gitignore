@@ -22,19 +22,6 @@ gopls.log
 # *.a
 # *.so
 
-# Generated files from protobuf
-*.pb.go
-
-# Generated files from gRPC
-*_grpc.pb.go
-*_grpc.pb.gw.go
-
-# The binary file for the client application
-client
-
-# The binary file for the server application
-server
-
 # OS-specific files
 .DS_Store
 Thumbs.db

@@ -8,8 +8,8 @@ To facilitate this communication, the project will define a set of protobuf mess
 
 # instructions to run
 
-    `$ make gen`
-    `$ make mock`
-    `$ make test`
-    `$ make run-server`
-    `$ make run-client` 
+    $ make gen
+    $ make mock
+    $ make test
+    $ make run-server
+    $ make run-client
